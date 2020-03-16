@@ -10,7 +10,7 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class InitController {
-    CSVReader csvReader;
+    /*CSVReader csvReader;
     String[] nextline;
     List<String[]> reuslts = new ArrayList<>();
 
@@ -29,5 +29,5 @@ public class InitController {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+    }*/
 }

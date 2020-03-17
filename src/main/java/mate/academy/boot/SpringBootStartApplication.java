@@ -1,4 +1,4 @@
-package mate.academy.boot.spring_boot_start;
+package mate.academy.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

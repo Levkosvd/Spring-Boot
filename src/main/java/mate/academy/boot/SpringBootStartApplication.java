@@ -1,4 +1,4 @@
-package mate.academy.boot.spring_boot_start;
+package mate.academy.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class SpringBootStartApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringBootStartApplication.class, args);
+
     }
 
 }

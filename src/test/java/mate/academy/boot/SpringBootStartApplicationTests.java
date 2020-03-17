@@ -1,4 +1,4 @@
-package mate.academy.boot.spring_boot_start;
+package mate.academy.boot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
